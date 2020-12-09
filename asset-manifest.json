@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/monedas/static/css/main.59fadb45.chunk.css",
+    "main.js": "/monedas/static/js/main.f4f378ff.chunk.js",
+    "main.js.map": "/monedas/static/js/main.f4f378ff.chunk.js.map",
+    "runtime-main.js": "/monedas/static/js/runtime-main.5f4a2a7f.js",
+    "runtime-main.js.map": "/monedas/static/js/runtime-main.5f4a2a7f.js.map",
+    "static/js/2.146fad28.chunk.js": "/monedas/static/js/2.146fad28.chunk.js",
+    "static/js/2.146fad28.chunk.js.map": "/monedas/static/js/2.146fad28.chunk.js.map",
+    "index.html": "/monedas/index.html",
+    "precache-manifest.8f036bfca3ac9eeef6995890c171f399.js": "/monedas/precache-manifest.8f036bfca3ac9eeef6995890c171f399.js",
+    "service-worker.js": "/monedas/service-worker.js",
+    "static/css/main.59fadb45.chunk.css.map": "/monedas/static/css/main.59fadb45.chunk.css.map",
+    "static/js/2.146fad28.chunk.js.LICENSE": "/monedas/static/js/2.146fad28.chunk.js.LICENSE",
+    "static/media/cryptomonedas.png": "/monedas/static/media/cryptomonedas.96e45d69.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f4a2a7f.js",
+    "static/js/2.146fad28.chunk.js",
+    "static/css/main.59fadb45.chunk.css",
+    "static/js/main.f4f378ff.chunk.js"
+  ]
+}
